@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iohao&theme=dark&layout=compact&hide=html,csharp,javascript,TypeScript )
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iohao&theme=dark&layout=compact&hide=html,csharp,javascript,TypeScript,c#,Shell,Batchfile,Dockerfile)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iohao&show_icons=true&theme=dark)
 
